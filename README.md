@@ -16,3 +16,9 @@
 
 # Hybrid Topology:
 ![image](https://github.com/user-attachments/assets/03601942-08d8-4c6b-bccb-552a0271d0ae)
+
+# Small Office Cost Effective Topology:
+![image](https://github.com/user-attachments/assets/b8d7e892-7d45-4352-8ab6-a3c8f94b9d0d)
+
+# Data Center Topology:
+![image](https://github.com/user-attachments/assets/ea48409d-f3e8-45eb-a892-499dd944d9e7)
