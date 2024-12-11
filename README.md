@@ -14,3 +14,5 @@
 ## Tree:
 ![image](https://github.com/user-attachments/assets/84d772cc-fae5-4ddb-9417-305f3a8606b5)
 
+# Hybrid Topology:
+![image](https://github.com/user-attachments/assets/03601942-08d8-4c6b-bccb-552a0271d0ae)
