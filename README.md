@@ -1,3 +1,4 @@
+# 𓇢𓆸 This is the repository for my final lab report of the course Computer Networks
 # Individual Topologies:
 ## Bus:
 ![image](https://github.com/user-attachments/assets/fd430d0e-34db-4f1b-b987-6525749e5916)
